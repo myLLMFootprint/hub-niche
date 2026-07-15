@@ -1,0 +1,11 @@
+# Saved audits — runtime data, not part of the source
+projects/
+
+# Settings-page Ahrefs key override — keep private, never commit
+settings.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
