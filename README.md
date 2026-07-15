@@ -20,6 +20,19 @@ It favors phone-driven home services in markets where incumbents haven't investe
 
 ---
 
+## Screenshots
+
+<!--
+  To add a screenshot: on GitHub, open this README, click the pencil (Edit),
+  then drag an image file into the editor where this comment is. GitHub uploads
+  it and inserts the correct link automatically. Suggested shots: the audit form
+  and a scored result report.
+-->
+
+_Add a screenshot of a scored audit here — it makes the repo far more inviting._
+
+---
+
 ## Requirements
 
 - **PHP 7.4+** (standard cPanel/Apache shared hosting is fine)
