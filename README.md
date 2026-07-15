@@ -124,4 +124,4 @@ Built with **Claude** (Anthropic). Paste any file into Claude to get help extend
 
 ## About
 
-hub.niche is by **[Ocean View Media](https://myllmfootprint.com)** — we help local businesses get found in AI search (ChatGPT, Perplexity, Gemini, Google AI Overviews) through structured, citable video content. If ranking is only half the battle now, [see how it works →](https://myllmfootprint.com) or [browse real examples →](https://myllmfootprint.com/video.blogs/).t/hub-niche/issues).
+hub.niche is by **[Ocean View Media LLC](https://myllmfootprint.com)** — we help local businesses get found in AI search (ChatGPT, Perplexity, Gemini, Google AI Overviews) through structured, citable video content. If ranking is only half the battle now, [see how it works →](https://myllmfootprint.com) or [browse real examples →](https://myllmfootprint.com/video.blogs/).t/hub-niche/issues).
